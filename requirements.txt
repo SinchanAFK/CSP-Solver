@@ -1,0 +1,5 @@
+# No third-party packages are needed to run the website.
+# Python 3.8 or newer, standard library only.
+#
+# Only for rebuilding the map files (tools/build_maps.py):
+# shapely>=2.0

@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: csp-map-colouring
+    runtime: python
+    buildCommand: "echo no build needed"
+    startCommand: "python app.py"
